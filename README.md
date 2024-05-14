@@ -1,3 +1,3 @@
 Learning Java Script, HTMl, and CSS
 
-Practicing Web
+Practicing Web Development in VSCode
